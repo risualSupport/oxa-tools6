@@ -78,7 +78,7 @@
             "value": "risualSupport"
         },
         "oxaToolsGithubProjectName": {
-            "value": "oxa-tools5"
+            "value": "oxa-tools6"
         },
         "oxaToolsGithubBranch": {
             "value": "oxa/release.fic"
@@ -90,7 +90,7 @@
             "value": "edx-configuration"
         },
         "edxConfigurationGithubBranch": {
-            "value": "oxa/master.fic"
+            "value": "oxa/release.fic"
         },
         "edxPlatformGithubAccountName": {
             "value": "microsoft"
