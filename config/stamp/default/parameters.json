@@ -39,7 +39,7 @@
             "value": "5.6"
         },
         "mysqlServerAdminUserName": {
-            "value": risualmysqladmin"
+            "value": "risualmysqladmin"
         },
         "mysqlServerAdminPassword": {
             "value": "{SERVICEACCOUNTPASSWORD}"
